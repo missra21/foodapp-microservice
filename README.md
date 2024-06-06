@@ -31,8 +31,6 @@ Automate Deployment: We can further automate the deployment process using Docker
 
 For example, with Docker Compose, we can define a docker-compose.yml file:
 ```
-yaml
-Copy code
 version: '3'
 services:
 my-node-app:
